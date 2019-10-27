@@ -29,3 +29,4 @@ Submissions are evaluated on Root-Mean-Squared-Log-Error (RMSLE) error = RMSLE (
 Score = 1 – error
 
 ## Leaderboard
+Rank 6 (Score: 0.791311) 
