@@ -1,4 +1,5 @@
 # Predict-The-Price-Of-Books
+![image](https://user-images.githubusercontent.com/37707687/67630550-693bc200-f8af-11e9-87a5-f6948a9a0eb5.png)
 
 The so-called paradoxes of an author, to which a reader takes exception, often exist not in the author’s book at all, but rather in the reader’s head. – Friedrich Nietzsche
 
